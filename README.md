@@ -1,7 +1,6 @@
 # About me
 
-:raising_hand: Hello, i am Giannis. I graduate from the [National and Kapodistrian University of Athens (NKUA)](https://en.uoa.gr/) :school: from the department of Iformatics and Tellecomunications :computer: . I really like Programming, Problem Solving, Computational thinking, and Computer Science in general :blush: .
-
+:raising_hand: Hello, i am Giannis. I graduate from the [National and Kapodistrian University of Athens (NKUA)](https://en.uoa.gr/) :school: from the department of Iformatics and Tellecomunications :computer: .
 :pushpin: I am working as a Software Engineer.
 
 :pushpin: I am very keen of learning new technologies, new tool that i can use in order to make my work more efficient, more simple and more expandable. At the same time i enjoy to study and work upon how software is build in bottom, before i use the tools it provides me. 
