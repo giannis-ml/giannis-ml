@@ -4,8 +4,6 @@
 
 :pushpin: I am working as a Software Engineer.
 
-:pushpin: Working with asp.Net framework, C#, MVC, etc.. 
-
 :pushpin: I am very keen of learning new technologies, new tool that i can use in order to make my work more efficient, more simple and more expandable. At the same time i enjoy to study and work upon how software is build in bottom, before i use the tools it provides me. 
 
 :pushpin: Im my repositories you will find some of my academic assignments, some repositories that i used to train upon new technologies, the scientific paper from one very interesting Research i completed in coordination with my team, and much more ... :smiley: __
