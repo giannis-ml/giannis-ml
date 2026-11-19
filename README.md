@@ -3,10 +3,6 @@
 :raising_hand: Hello, i am Giannis. I graduate from the [National and Kapodistrian University of Athens (NKUA)](https://en.uoa.gr/) :school: from the department of Iformatics and Tellecomunications :computer: .
 :pushpin: I am working as a Software Engineer.
 
-:pushpin: I am very keen of learning new technologies, new tool that i can use in order to make my work more efficient, more simple and more expandable. At the same time i enjoy to study and work upon how software is build in bottom, before i use the tools it provides me. 
-
-:pushpin: Im my repositories you will find some of my academic assignments, some repositories that i used to train upon new technologies, the scientific paper from one very interesting Research i completed in coordination with my team, and more ... :smiley: __
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giannis6003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giannismallios2001@gmail.com) 
