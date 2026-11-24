@@ -1,7 +1,6 @@
 # About me
 
-:raising_hand: Hello, i am Giannis. I graduate from the [National and Kapodistrian University of Athens (NKUA)](https://en.uoa.gr/) :school: from the department of Iformatics and Tellecomunications :computer: .
-:pushpin: I am working as a Software Engineer.
+:raising_hand:
 
 
 ## 🌐 Socials:
